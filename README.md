@@ -26,7 +26,7 @@
 * 밸리데이터: `a_grid-counting/files/validator.cpp`
 * 지문: `a_grid-counting/statements/korean/problem.tex`
 * 지문 그림: `a_grid-counting/statements/korean/grid.png`
-* 데이터: `a_grid-counting/tests/*
+* 데이터: `a_grid-counting/tests/*`
 
 ## 초등 3번, 중등 2번
 
